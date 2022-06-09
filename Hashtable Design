@@ -1,0 +1,10 @@
+Hashtable Design
+    -Hashtable Class
+    -Hashtable Entry class for user input
+    -I want to take user input  
+        -maybe cout function
+    -Allow the user to delete a value
+    -Have the user search for values stored in the hashtable
+
+Need the program to take user input values. Store them into a hastable,
+Allow the user to input, delete or search for the value. 
