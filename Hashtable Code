@@ -4,7 +4,7 @@
 #include<cstdio>
 
 using namespace std;
-const int T_S = 200;
+const int T_S = 100;
 //Class to take the user's input
 class HashTableEntry
 {
